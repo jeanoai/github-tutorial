@@ -1,0 +1,10 @@
+MY TO-DO LIST
+
+1. Git
+2. Ansible
+3. Excel (Tableau dynmaiquec roisé)
+4. Python objet/pandas 
+5. Grafana-InfluxDB-CSV-Pandas 
+6. Vagrant/Docker/Opennebula 
+7. Python Plot CSV
+8. Python  pour Excel 
