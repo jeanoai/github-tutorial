@@ -8,3 +8,5 @@ MY TO-DO LIST
 6. Vagrant/Docker/Opennebula 
 7. Python Plot CSV
 8. Python  pour Excel 
+9. Python CSV (exportttol)to Pandas 
+10. Grafana-Pandas 
